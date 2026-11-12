@@ -91,8 +91,6 @@ Also working with **React Native**, **Expo**, **Google Gemini**, and **D3.js**.
 
 <a href="https://github.com/HeroJakes"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeroJakes&amp;theme=github" alt="Ivan Lee's public GitHub contribution activity" width="700" /></a>
 
-<sub>Layout inspired by <a href="https://github.com/MacroPower/MacroPower">MacroPower</a>.</sub>
-
 <!-- links -->
 
 [PoyoLink]: https://github.com/HeroJakes/MyHack
